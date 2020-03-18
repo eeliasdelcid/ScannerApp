@@ -19,11 +19,15 @@ Our app will allow users to be able to scan a QR code on items that can be easil
 - **Category:**
 Utilities
 - **Mobile:**
-IOS
+This app would only be developed for mobile devices.
 - **Story:**
+Provides information on how to contact the owner of the item. The owener can choose what information they want to put on QR code.
 - **Market:**
+People forget wallets, keys and other items all the time at restaurants, movie theaters and other public places. To have some type of information to return these items to the owners, save the owners a lot of money and time. 
 - **Habit:**
+This app can be used whenever they find a lost item, or whenever they want to change the information on the QR code.
 - **Scope:**
+This app will be only to return items that have a QR code. 
 
 ## Product Spec
 
