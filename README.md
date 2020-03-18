@@ -45,11 +45,20 @@ This app will be only to return items that have a QR code.
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
+* [Login]
+* [Register-User signs up or logs in]
+   * Upon Download/Reopening of the application, the user is prompted to log in to gain access to the app.
+* [Camera QR Scanner]
+   * [Lets people scan the QR code found on the item]
+   * 
+* [Message Screen]
+   * [Provides information of how to contact the owner of the item.]
    * ...
-* [list second screen here]
-   * [list associated required story here]
+* [Settings]
+   * [Let people change language and app notification settings]
+   * ...
+* [Change Message]
+   * [Let people change the information on the QR code]
    * ...
 
 ### 3. Navigation
