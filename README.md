@@ -3,7 +3,7 @@ Group Project - README Template
 ===
 
 # APP_NAME_HERE
-
+ScannerApp
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
@@ -12,7 +12,7 @@ Group Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+Our app will allow users to be able to scan a QR code on items that can be easily lost. For example wallets, keys and other things. Our app will read the QR code and give information about the person who owns the item, like the name, phone number, and other ways to contact them. Our app will also allow for users to change the information on the QR code. 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
