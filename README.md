@@ -17,7 +17,9 @@ Our app will allow users to be able to scan a QR code on items that can be easil
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:**
+Utilities
 - **Mobile:**
+IOS
 - **Story:**
 - **Market:**
 - **Habit:**
