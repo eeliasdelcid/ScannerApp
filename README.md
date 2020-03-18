@@ -49,16 +49,19 @@ This app will be only to return items that have a QR code.
 * [Register-User signs up or logs in]
    * Upon Download/Reopening of the application, the user is prompted to log in to gain access to the app.
 * [Camera QR Scanner]
-   * [Lets people scan the QR code found on the item]
+   * Lets people scan the QR code found on the item
    * 
 * [Message Screen]
-   * [Provides information of how to contact the owner of the item.]
+   * Provides information of how to contact the owner of the item.
+   * ...
+* [Call/Text them]
+   * Allows people to open the phone app and call them or the messages app to send them a text
    * ...
 * [Settings]
-   * [Let people change language and app notification settings]
+   * Let people change language and app notification settings
    * ...
 * [Change Message]
-   * [Let people change the information on the QR code]
+   * Let people change the information on the QR code
    * ...
 
 ### 3. Navigation
