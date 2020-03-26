@@ -32,17 +32,17 @@ This app will be only to return items that have a QR code.
 
 ### 1. User Stories (Required and Optional)
 
-As a businessman I want to be able to have the opportunity to get my wallet back if i ever lose it with all my contact info that I need. 
-As a mother I would like to have the possibility of being able to have someone return my wallet with all of the valuable info for my children
-As a student I would like to be able to have my wallet returned so that I can retrieve 
+1. As a businessman I want to be able to have the opportunity to get my wallet back if i ever lose it with all my contact info that I need. 
+2. As a mother I would like to have the possibility of being able to have someone return my wallet with all of the valuable info for my children
+3. As a student I would like to be able to have my wallet returned so that I can retrieve 
 my student ID and use it when needed
-As a staff member I would like to have my wallet returned to access the doors that I need to access with the right ID.
-As a Frequent library user I would like to have my wallet returned so that I can have access to library computers and check out books.
-As a bank member I would like to have my wallet returned so that I can access my accounts
-As a facility owner I would like to have my wallet returned so that I can have access to contact info i have on other business cards
-As a citizen I would like to have my wallet back so that i can have my valuable info such as my social security back in my possession
-As a hospital member I would like to have my wallet returned so that i can show identification and proof of insurance to staff members
-As a driver i would like to have my wallet returned so that I can have a form of ID to show when I get pulled over 
+4. As a staff member I would like to have my wallet returned to access the doors that I need to access with the right ID.
+5. As a Frequent library user I would like to have my wallet returned so that I can have access to library computers and check out books.
+6. As a bank member I would like to have my wallet returned so that I can access my accounts
+7. As a facility owner I would like to have my wallet returned so that I can have access to contact info i have on other business cards
+8. As a citizen I would like to have my wallet back so that i can have my valuable info such as my social security back in my possession
+9. As a hospital member I would like to have my wallet returned so that i can show identification and proof of insurance to staff members
+10. As a driver i would like to have my wallet returned so that I can have a form of ID to show when I get pulled over 
 
 
 **Optional Nice-to-have Stories**
